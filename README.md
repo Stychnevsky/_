@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+My name is Anton. I want to understand GIT fully.
